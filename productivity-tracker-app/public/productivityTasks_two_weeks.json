@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1000,
+    "name": "Email Cleanup",
+    "time": "11 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-24"
+  },
+  {
+    "id": 1001,
+    "name": "Deep Work - Design",
+    "time": "87 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-24"
+  },
+  {
+    "id": 1002,
+    "name": "Knowledge Sharing",
+    "time": "41 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-24"
+  },
+  {
+    "id": 1003,
+    "name": "Write Documentation",
+    "time": "54 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-24"
+  },
+  {
+    "id": 1004,
+    "name": "Code Review",
+    "time": "24 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-24"
+  },
+  {
+    "id": 1005,
+    "name": "Team Meeting",
+    "time": "42 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-25"
+  },
+  {
+    "id": 1006,
+    "name": "Team Meeting",
+    "time": "48 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-25"
+  },
+  {
+    "id": 1007,
+    "name": "Team Meeting",
+    "time": "55 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-25"
+  },
+  {
+    "id": 1008,
+    "name": "Team Meeting",
+    "time": "52 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-25"
+  },
+  {
+    "id": 1009,
+    "name": "Deep Work - Design",
+    "time": "98 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-26"
+  },
+  {
+    "id": 1010,
+    "name": "Deep Work - Design",
+    "time": "83 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-26"
+  },
+  {
+    "id": 1011,
+    "name": "Deep Work - Design",
+    "time": "81 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-26"
+  },
+  {
+    "id": 1012,
+    "name": "Email Cleanup",
+    "time": "11 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-26"
+  },
+  {
+    "id": 1013,
+    "name": "Write Documentation",
+    "time": "63 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-26"
+  },
+  {
+    "id": 1014,
+    "name": "Client Sync",
+    "time": "20 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-27"
+  },
+  {
+    "id": 1015,
+    "name": "Email Cleanup",
+    "time": "10 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-27"
+  },
+  {
+    "id": 1016,
+    "name": "Write Documentation",
+    "time": "57 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-27"
+  },
+  {
+    "id": 1017,
+    "name": "Code Review",
+    "time": "20 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-28"
+  },
+  {
+    "id": 1018,
+    "name": "Code Review",
+    "time": "27 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-28"
+  },
+  {
+    "id": 1019,
+    "name": "Code Review",
+    "time": "27 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-28"
+  },
+  {
+    "id": 1020,
+    "name": "Deep Work - Design",
+    "time": "100 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 1021,
+    "name": "Team Meeting",
+    "time": "42 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 1022,
+    "name": "Bug Fixing",
+    "time": "35 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 1023,
+    "name": "Code Review",
+    "time": "35 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 1024,
+    "name": "Client Sync",
+    "time": "26 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 1025,
+    "name": "Write Documentation",
+    "time": "56 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-04-30"
+  },
+  {
+    "id": 1026,
+    "name": "Deep Work - Design",
+    "time": "93 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-04-30"
+  },
+  {
+    "id": 1027,
+    "name": "Bug Fixing",
+    "time": "37 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-30"
+  },
+  {
+    "id": 1028,
+    "name": "Team Meeting",
+    "time": "36 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-04-30"
+  },
+  {
+    "id": 1029,
+    "name": "Knowledge Sharing",
+    "time": "54 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-01"
+  },
+  {
+    "id": 1030,
+    "name": "Team Meeting",
+    "time": "48 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-01"
+  },
+  {
+    "id": 1031,
+    "name": "Bug Fixing",
+    "time": "34 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-01"
+  },
+  {
+    "id": 1032,
+    "name": "Knowledge Sharing",
+    "time": "52 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-02"
+  },
+  {
+    "id": 1033,
+    "name": "Code Review",
+    "time": "22 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-02"
+  },
+  {
+    "id": 1034,
+    "name": "Client Sync",
+    "time": "24 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-02"
+  },
+  {
+    "id": 1035,
+    "name": "Email Cleanup",
+    "time": "10 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 1036,
+    "name": "Email Cleanup",
+    "time": "19 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 1037,
+    "name": "Knowledge Sharing",
+    "time": "58 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 1038,
+    "name": "Write Documentation",
+    "time": "64 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 1039,
+    "name": "Email Cleanup",
+    "time": "24 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 1040,
+    "name": "Bug Fixing",
+    "time": "37 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-04"
+  },
+  {
+    "id": 1041,
+    "name": "Bug Fixing",
+    "time": "31 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-04"
+  },
+  {
+    "id": 1042,
+    "name": "Code Review",
+    "time": "40 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-04"
+  },
+  {
+    "id": 1043,
+    "name": "Bug Fixing",
+    "time": "32 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 1044,
+    "name": "Bug Fixing",
+    "time": "38 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 1045,
+    "name": "Write Documentation",
+    "time": "65 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 1046,
+    "name": "Knowledge Sharing",
+    "time": "54 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 1047,
+    "name": "Code Review",
+    "time": "28 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 1048,
+    "name": "Team Meeting",
+    "time": "55 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 1049,
+    "name": "Team Meeting",
+    "time": "48 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 1050,
+    "name": "Deep Work - Design",
+    "time": "80 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 1051,
+    "name": "Code Review",
+    "time": "40 min",
+    "focusLevel": "high",
+    "completed": true,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 1052,
+    "name": "Code Review",
+    "time": "31 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-07"
+  },
+  {
+    "id": 1053,
+    "name": "Team Meeting",
+    "time": "54 min",
+    "focusLevel": "low",
+    "completed": true,
+    "date": "2025-05-07"
+  },
+  {
+    "id": 1054,
+    "name": "Write Documentation",
+    "time": "70 min",
+    "focusLevel": "medium",
+    "completed": true,
+    "date": "2025-05-07"
+  },
+    {
+      "id": 2000,
+      "name": "User Interview",
+      "time": "45 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-08"
+    },
+    {
+      "id": 2001,
+      "name": "Product Roadmap Planning",
+      "time": "90 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-08"
+    },
+    {
+      "id": 2002,
+      "name": "Internal Demo Presentation",
+      "time": "60 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-09"
+    },
+    {
+      "id": 2003,
+      "name": "Tech Blog Writing",
+      "time": "75 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-10"
+    },
+    {
+      "id": 2004,
+      "name": "1:1 Mentoring",
+      "time": "30 min",
+      "focusLevel": "low",
+      "completed": true,
+      "date": "2025-05-10"
+    },
+    {
+      "id": 2005,
+      "name": "Sprint Retrospective",
+      "time": "50 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-11"
+    },
+    {
+      "id": 2006,
+      "name": "Competitive Research",
+      "time": "40 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-11"
+    },
+    {
+      "id": 2007,
+      "name": "Data Labeling",
+      "time": "25 min",
+      "focusLevel": "low",
+      "completed": true,
+      "date": "2025-05-12"
+    },
+    {
+      "id": 2008,
+      "name": "System Design Discussion",
+      "time": "80 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-13"
+    },
+    {
+      "id": 2009,
+      "name": "Resume Feedback for Team",
+      "time": "20 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-13"
+    },
+    {
+      "id": 2010,
+      "name": "Open Source Contribution",
+      "time": "90 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-14"
+    },
+    {
+      "id": 2011,
+      "name": "UX Feedback Session",
+      "time": "35 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-15"
+    },
+    {
+      "id": 2012,
+      "name": "Infra Cost Optimization",
+      "time": "70 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-15"
+    },
+    {
+      "id": 2013,
+      "name": "Customer Support Escalation",
+      "time": "50 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-16"
+    },
+    {
+      "id": 2014,
+      "name": "Internal Hackathon",
+      "time": "120 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 2015,
+      "name": "Team Social Event Planning",
+      "time": "25 min",
+      "focusLevel": "low",
+      "completed": true,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 2016,
+      "name": "Code Refactoring",
+      "time": "60 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-18"
+    },
+    {
+      "id": 2017,
+      "name": "App Store Deployment",
+      "time": "45 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-18"
+    },
+    {
+      "id": 2018,
+      "name": "Cross-Team Sync",
+      "time": "40 min",
+      "focusLevel": "low",
+      "completed": true,
+      "date": "2025-05-19"
+    },
+    {
+      "id": 2019,
+      "name": "Documentation Cleanup",
+      "time": "30 min",
+      "focusLevel": "medium",
+      "completed": true,
+      "date": "2025-05-20"
+    },
+    {
+      "id": 2020,
+      "name": "Strategy Review Meeting",
+      "time": "75 min",
+      "focusLevel": "high",
+      "completed": true,
+      "date": "2025-05-21"
+    }
+  
+]
